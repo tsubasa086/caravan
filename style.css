@@ -68,14 +68,18 @@ main {
 }
 
 .blog {
-  width: 600px;
-  height: 1400px;
+  width: 540px;
+  margin-right: 30px;
 }
 
 .blog-heading {
   border-bottom: 8px solid #f7f7f7;
   text-align: center;
   line-height: 0.6;
+}
+
+.blog-box {
+  padding-top: 50px;
 }
 
 .blog-item {
@@ -88,6 +92,14 @@ main {
 
 .blog-image {
   height: 180px;
+}
+
+.blog-text {
+  padding: 25px 0 0 30px;
+}
+
+.blog-text-heading {
+  padding-bottom: 15px;
 }
 
 .blog-date {
@@ -105,7 +117,7 @@ main {
 }
 
 .sidebar {
-  width: 240px;
+  width: 230px;
 }
 
 footer {
